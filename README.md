@@ -1,4 +1,4 @@
-![YUV.AI AUTO CAPTIONING]([https://example.com/path-to-your-image.png](https://ideogram.ai/assets/image/lossless/response/LmOfJkIFTUGdbiCqxYoBSA))
+![YUV.AI AUTO CAPTIONING](https://github.com/hoodini/auto-image-captioning-llava-llama/blob/main/colorful-phoenix-made-of-neural-networks-flying-ov-LmOfJkIFTUGdbiCqxYoBSA-oK_jb_CfSua1QFoOR4pc4w.jpeg?raw=true)
 
 # Image Captioning and Renaming Script
 
